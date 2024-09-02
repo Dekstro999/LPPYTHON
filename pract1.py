@@ -1,5 +1,5 @@
+# https://github.com/Dekstro999/LPPYTHON
 import random
-
 
 def intEntero(mensaje):
     while True:
